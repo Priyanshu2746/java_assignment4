@@ -1,6 +1,6 @@
 # Deck of Cards Java Program
 
-This is a menu-driven Java program that simulates a deck of 52 playing cards. The deck is made up of four suits (clubs, diamonds, hearts, spades) and 13 ranks (Ace, 2-10, Jack, Queen, King). The program is divided into two classes: `Card` and `Deck`. `Card` represents an individual playing card and `Deck` represents a deck of cards.
+This is a menu-driven Java program that simulates a deck of 52 playing cards. The deck is made up of four suits (clubs, diamonds, hearts, spades) and 13 ranks (Ace, 2-10, Jack, Queen, King). The program is divided into two classes: `Card` and `Deck`. `Card` represents an individual playing card and `Deck` represents a deck of card
 
 ## Usage
 
