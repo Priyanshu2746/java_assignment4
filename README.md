@@ -53,4 +53,4 @@ The program follows the following coding guidelines:
 - Each method is separated into its own function.
 - The program uses `ArrayList` to store the deck of cards.
 - The program uses the `Scanner` class to read user input.
-- The program includes comments to explain the logic of each mat
+- The program includes comments to explain the logic of each matters.
